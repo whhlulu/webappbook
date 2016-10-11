@@ -1,0 +1,35 @@
+{
+  "msg": "\u6210\u529f",
+  "result": 0,
+  "chapters": [
+    {
+      "price": 0,
+      "chapter_id": 0,
+      "word_count": 2348,
+      "free": true,
+      "title": "\u4eba\u751f\u4f55\u5904\u4e0d\u76f8\u9022 \u7b2c001\u7ae0 \u6b7b\u90fd\u8981\u6210\u540d"
+    },
+    {
+      "price": 0,
+      "chapter_id": 1,
+      "word_count": 2266,
+      "free": true,
+      "title": "\u7b2c002\u7ae0 \u5341\u5e74\u5356\u8eab\u5951"
+    },
+    {
+      "price": 0,
+      "chapter_id": 2,
+      "word_count": 2287,
+      "free": true,
+      "title": "\u7b2c003\u7ae0 \u6ca1\u94b1\u5c31\u6eda\uff01"
+    },
+    {
+      "price": 0,
+      "chapter_id": 3,
+      "word_count": 2405,
+      "free": true,
+      "title": "\u7b2c004\u7ae0 \u7edd\u5904\u9022\u751f\uff1f"
+    }
+  ],
+  "title": "\u8c6a\u95e8\u5ba0\u5a5a\uff1a\u5927\u660e\u661f\u7684\u79d8\u5bc6\u604b\u4eba"
+}
