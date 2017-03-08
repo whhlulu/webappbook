@@ -2,8 +2,7 @@
 #webappbook
 -------------
 
-前端-移动APP阅读器
-
+前端-移动APP阅读器预览：http://htmlpreview.github.io/?https://github.com/whhlulu/webappbook/blob/master/index.html
 项目背景：慕课实战素材，对其学习及修改
 
 作用介绍：对于移动端的文字阅读器
